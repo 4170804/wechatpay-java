@@ -37,6 +37,10 @@ jar {
     }
 }
 
+tasks.withType(JavaCompile) {
+    options.encoding = "UTF-8"
+}
+
 
 task relocateShadowJar(type: ConfigureShadowRelocation) {
     target = tasks.shadowJar

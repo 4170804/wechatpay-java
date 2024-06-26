@@ -101,3 +101,7 @@ signing {
     useInMemoryPgpKeys(signingKey, signingPassword)
     sign publishing.publications.maven
 }
+
+tasks.withType(JavaCompile) {
+    options.encoding = "UTF-8"
+}

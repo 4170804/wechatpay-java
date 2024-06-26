@@ -17,7 +17,7 @@ import java.security.cert.CertificateFactory;
 import java.security.cert.X509Certificate;
 import java.security.spec.InvalidKeySpecException;
 import java.security.spec.PKCS8EncodedKeySpec;
-import java.util.Base64;
+import com.wechat.pay.java.core.util.Base64;
 
 /** PEM工具 */
 public class PemUtil {
