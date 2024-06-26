@@ -13,7 +13,7 @@ import com.wechat.pay.java.core.util.IOUtil;
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.time.Instant;
-import java.util.Base64;
+import com.wechat.pay.java.core.util.Base64;
 import java.util.HashMap;
 import java.util.Map;
 import org.junit.Assert;

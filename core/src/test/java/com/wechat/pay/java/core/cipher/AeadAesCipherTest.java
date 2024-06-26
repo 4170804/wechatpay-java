@@ -4,7 +4,7 @@ import static com.wechat.pay.java.core.model.TestConfig.API_V3_KEY;
 
 import com.wechat.pay.java.core.exception.DecryptionException;
 import java.nio.charset.StandardCharsets;
-import java.util.Base64;
+import com.wechat.pay.java.core.util.Base64;
 import org.junit.Assert;
 import org.junit.BeforeClass;
 import org.junit.Test;

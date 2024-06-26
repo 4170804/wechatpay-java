@@ -9,7 +9,7 @@ import com.wechat.pay.java.core.exception.MalformedMessageException;
 import com.wechat.pay.java.core.exception.ValidationException;
 import com.wechat.pay.java.core.util.GsonUtil;
 import java.nio.charset.StandardCharsets;
-import java.util.Base64;
+import com.wechat.pay.java.core.util.Base64;
 import java.util.HashMap;
 import java.util.Map;
 

@@ -24,7 +24,7 @@ import com.wechat.pay.java.service.certificate.model.EncryptCertificate;
 import java.nio.charset.StandardCharsets;
 import java.security.cert.X509Certificate;
 import java.util.ArrayList;
-import java.util.Base64;
+import com.wechat.pay.java.core.util.Base64;
 import java.util.List;
 import java.util.function.Function;
 

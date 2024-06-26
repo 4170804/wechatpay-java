@@ -15,7 +15,7 @@ import com.wechat.pay.java.core.http.MediaType;
 import com.wechat.pay.java.core.util.PemUtil;
 import java.nio.charset.StandardCharsets;
 import java.security.cert.X509Certificate;
-import java.util.Base64;
+import com.wechat.pay.java.core.util.Base64;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;

@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.*;
 import com.wechat.pay.java.core.cipher.AeadCipher;
 import com.wechat.pay.java.core.exception.DecryptionException;
 import java.nio.charset.StandardCharsets;
-import java.util.Base64;
+import com.wechat.pay.java.core.util.Base64;
 import org.junit.jupiter.api.Test;
 
 public interface BaseAeadSM4Test {

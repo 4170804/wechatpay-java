@@ -9,7 +9,7 @@ import java.security.NoSuchAlgorithmException;
 import java.security.Signature;
 import java.security.SignatureException;
 import java.security.cert.X509Certificate;
-import java.util.Base64;
+import com.wechat.pay.java.core.util.Base64;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
