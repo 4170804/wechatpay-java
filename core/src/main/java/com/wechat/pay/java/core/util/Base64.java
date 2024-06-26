@@ -14,12 +14,12 @@ public class Base64 {
   }
 
   public byte[] decode(String src) {
-    return  android.util.Base64.decode(src, android.util.Base64.DEFAULT);
+    return  android.util.Base64.decode(src, android.util.Base64.NO_WRAP);
   }
 
   public String encodeToString(byte[] src)
   {
-    return android.util.Base64.encodeToString(src, android.util.Base64.DEFAULT);
+    return android.util.Base64.encodeToString(src, android.util.Base64.NO_WRAP);
   }
 
 }

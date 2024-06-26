@@ -1,28 +1,28 @@
 Manifest-Version: 1.0
 Main-Class: 
-Class-Path: kona-crypto-1.0.7.1.jar kotlin-stdlib-jdk8-1.6.10.jar groovy
- -templates-3.0.17.jar gradle-api-8.7.jar kotlin-stdlib-common-1.6.20.ja
- r groovy-xml-3.0.17.jar groovy-groovydoc-3.0.17.jar groovy-nio-3.0.17.j
- ar groovy-astbuilder-3.0.17.jar groovy-dateutil-3.0.17.jar groovy-conso
- le-3.0.17.jar okhttp-4.10.0.jar annotations-13.0.jar groovy-console-3.0
- .17.jar gradle-api-8.7.jar kotlin-reflect-1.9.22.jar gson-2.9.1.jar gro
- ovy-datetime-3.0.17.jar hamcrest-2.1.jar kotlin-stdlib-jdk7-1.6.10.jar 
- hamcrest-core-1.3.jar kona-pkix-1.0.7.1.jar kona-provider-1.0.7.1.jar g
- roovy-test-3.0.17.jar byte-buddy-1.14.15.jar slf4j-simple-1.7.36.jar gr
- oovy-test-3.0.17.jar kotlin-stdlib-jdk7-1.5.31.jar junit-jupiter-params
- -5.9.1.jar gradle-installation-beacon-8.7.jar awaitility-4.2.0.jar groo
- vy-astbuilder-3.0.17.jar kotlin-stdlib-1.9.22.jar kotlin-reflect-1.9.22
- .jar mockito-core-5.12.0.jar objenesis-3.3.jar opentest4j-1.2.0.jar gro
- ovy-sql-3.0.17.jar kotlin-stdlib-1.6.20.jar javaparser-core-3.17.0.jar 
- javaparser-core-3.17.0.jar junit-vintage-engine-5.9.1.jar slf4j-api-1.7
- .36.jar gradle-installation-beacon-8.7.jar mockwebserver-4.10.0.jar jun
- it-platform-commons-1.9.1.jar groovy-dateutil-3.0.17.jar junit-jupiter-
- api-5.9.1.jar junit-platform-engine-1.9.1.jar gradle-test-kit-8.7.jar g
- roovy-3.0.17.jar groovy-templates-3.0.17.jar groovy-3.0.17.jar groovy-a
- nt-3.0.17.jar junit-jupiter-engine-5.9.1.jar okio-jvm-3.0.0.jar kotlin-
- stdlib-jdk8-1.5.31.jar kotlin-stdlib-1.9.22.jar groovy-xml-3.0.17.jar g
- roovy-ant-3.0.17.jar groovy-groovydoc-3.0.17.jar groovy-datetime-3.0.17
- .jar groovy-sql-3.0.17.jar groovy-nio-3.0.17.jar junit-4.13.2.jar junit
- -jupiter-5.9.1.jar byte-buddy-agent-1.14.15.jar groovy-json-3.0.17.jar 
- groovy-json-3.0.17.jar
+Class-Path: junit-jupiter-params-5.9.1.jar kotlin-stdlib-jdk7-1.5.31.jar
+  junit-platform-commons-1.9.1.jar slf4j-api-1.7.36.jar groovy-nio-3.0.1
+ 7.jar opentest4j-1.2.0.jar junit-jupiter-engine-5.9.1.jar kotlin-stdlib
+ -1.9.22.jar kotlin-reflect-1.9.22.jar groovy-groovydoc-3.0.17.jar groov
+ y-templates-3.0.17.jar kona-provider-1.0.7.1.jar groovy-datetime-3.0.17
+ .jar kotlin-stdlib-jdk8-1.5.31.jar junit-vintage-engine-5.9.1.jar groov
+ y-3.0.17.jar slf4j-simple-1.7.36.jar kona-crypto-1.0.7.1.jar kotlin-std
+ lib-common-1.6.20.jar byte-buddy-1.14.15.jar groovy-xml-3.0.17.jar grad
+ le-api-8.7.jar byte-buddy-agent-1.14.15.jar groovy-dateutil-3.0.17.jar 
+ awaitility-4.2.0.jar hamcrest-core-1.3.jar junit-platform-engine-1.9.1.
+ jar junit-jupiter-5.9.1.jar gradle-api-8.7.jar groovy-sql-3.0.17.jar ko
+ na-pkix-1.0.7.1.jar gradle-installation-beacon-8.7.jar groovy-datetime-
+ 3.0.17.jar gradle-test-kit-8.7.jar groovy-test-3.0.17.jar groovy-astbui
+ lder-3.0.17.jar gradle-installation-beacon-8.7.jar groovy-dateutil-3.0.
+ 17.jar junit-jupiter-api-5.9.1.jar kotlin-stdlib-jdk7-1.6.10.jar kotlin
+ -stdlib-1.6.20.jar groovy-groovydoc-3.0.17.jar kotlin-reflect-1.9.22.ja
+ r kotlin-stdlib-jdk8-1.6.10.jar junit-4.13.2.jar groovy-ant-3.0.17.jar 
+ hamcrest-2.1.jar objenesis-3.3.jar groovy-3.0.17.jar groovy-test-3.0.17
+ .jar mockwebserver-4.10.0.jar javaparser-core-3.17.0.jar groovy-xml-3.0
+ .17.jar mockito-core-5.12.0.jar javaparser-core-3.17.0.jar groovy-ant-3
+ .0.17.jar groovy-json-3.0.17.jar groovy-astbuilder-3.0.17.jar groovy-co
+ nsole-3.0.17.jar groovy-sql-3.0.17.jar groovy-json-3.0.17.jar okio-jvm-
+ 3.0.0.jar groovy-console-3.0.17.jar groovy-nio-3.0.17.jar annotations-1
+ 3.0.jar groovy-templates-3.0.17.jar gson-2.9.1.jar okhttp-4.10.0.jar ko
+ tlin-stdlib-1.9.22.jar
 
