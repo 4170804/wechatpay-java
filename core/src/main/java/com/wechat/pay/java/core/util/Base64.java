@@ -3,7 +3,7 @@ package com.wechat.pay.java.core.util;
 
 public class Base64 {
 
-  public static Base64 instance= new Base64();
+  private static Base64 instance= new Base64();
   public static  Base64 getEncoder()
   {
     return instance;
